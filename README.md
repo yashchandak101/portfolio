@@ -35,10 +35,6 @@ You can view the live version of the portfolio website at [Yash Chandak's Portfo
 
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request. Contributions are always welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any inquiries or feedback, you can reach me at:
