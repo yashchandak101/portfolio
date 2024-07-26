@@ -43,7 +43,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, you can reach me at:
 
-- **Email**: yash.chandak@example.com
+- **Email**: yash.chandak@gmail.com
 - **LinkedIn**: [www.linkedin.com/in/yash-chandak-394057316](https://www.linkedin.com/in/yash-chandak-394057316/)
 - **GitHub**: [github.com/YashChandak101](https://github.com/YashChandak101)
 
