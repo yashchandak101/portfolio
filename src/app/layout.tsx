@@ -11,14 +11,12 @@ export default function RootLayout() {
   return (
     <html lang="en">
       <head>
-        {/* You can include more head elements here */}
+    
       </head>
       <body>
-        {/* Rendering Game component */}
+     
         <Game />
 
-        {/* Rendering children, this will be specific page content */}
-        {children}
       </body>
     </html>
   );
